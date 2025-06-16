@@ -1,11 +1,6 @@
-# Frank-Qu
-
 ## Hello There 👋
 
-My name is Zhaopeng Qu
-
-You may find out more about my work and projects from my [website](https://byelenin.github.io).
-
+My name is **Zhaopeng(Frank) Qu**.You may find out more about my work and projects from my [website](https://byelenin.github.io).
 
 - 💼 I am an Associate Professor in Applied Microeconomics at Nanjing University.
 - 🔭 Most of my work is about inequality, health and rural-urban migration in China.
